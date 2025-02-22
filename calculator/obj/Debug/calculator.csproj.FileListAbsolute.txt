@@ -1,0 +1,14 @@
+C:\Users\darkl\source\repos\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\darkl\source\repos\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\darkl\source\repos\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\darkl\source\repos\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\darkl\source\repos\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\darkl\source\repos\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\darkl\source\repos\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\darkl\source\repos\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\darkl\source\repos\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\darkl\source\repos\calculator\calculator\bin\Debug\calculator.exe.manifest
+C:\Users\darkl\source\repos\calculator\calculator\bin\Debug\calculator.application
+C:\Users\darkl\source\repos\calculator\calculator\obj\Debug\calculator.Calulor.resources
+C:\Users\darkl\source\repos\calculator\calculator\obj\Debug\calculator.exe.manifest
+C:\Users\darkl\source\repos\calculator\calculator\obj\Debug\calculator.application
